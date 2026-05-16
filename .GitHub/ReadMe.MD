@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://carder.top/imagens/1778040247592-723195556.png" alt="pallavi music Bot Logo" width="500px">
+  <img src="https://carder.top/imagens/1778040247592-723195556.jpg" alt="pallavi music Bot Logo" width="500px">
 </p>
 
 <h1 align="center">🎵 pallavi music Bot 🎵</h1>
